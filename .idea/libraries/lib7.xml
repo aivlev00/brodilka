@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-macosx-ppc/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist-macosx-ppc/lib/jogl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

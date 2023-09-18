@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-solaris-i586/lib/jogl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist-solaris-i586/lib/gluegen-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

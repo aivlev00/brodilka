@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Brodilka6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-solaris-i586/Brodilka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

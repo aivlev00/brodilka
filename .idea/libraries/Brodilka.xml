@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Brodilka">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-macosx-ppc/Brodilka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

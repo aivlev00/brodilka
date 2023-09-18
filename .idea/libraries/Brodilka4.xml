@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Brodilka4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-windows-i586/Brodilka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

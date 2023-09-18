@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist-solaris-sparc/lib/jogl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist-solaris-sparc/lib/gluegen-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
